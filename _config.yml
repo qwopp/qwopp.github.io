@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi, I'm James Adams. I'm currently a senior studying computer science at the University of Michigan. I'm currently looking for new grad jobs in software engineering.
+about_me_description: Hi, I'm James Adams. I'm a recent graduate from the University of Michigan!
 
 # SKILLS SECTION
 # show_skills_card:
